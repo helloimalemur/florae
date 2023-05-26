@@ -1,3 +1,3 @@
-# florae knowledge
+# Florae Knowledge
 
-# [propagating](./trees/propagation/propagating_trees.md)
+[Propagating Trees](./trees/propagation/propagating_trees.md)
